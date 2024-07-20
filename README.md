@@ -8,7 +8,7 @@
     <h2>Nutritionist App</h2>
     <body>
     <h2>Nutrition App using Streamlit </h2>
-    <p>This project leverages nutrition data from various food databases and provides insightful analytics to support healthy eating patterns.</p>
+    <p>This project provides insightful analytics to support healthy eating patterns.</p>
 <h3></h3>
     <h3><b>Setup</b></h3>
     <h3>Requirements</h3>
