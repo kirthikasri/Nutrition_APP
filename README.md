@@ -5,7 +5,7 @@
    
 </head>
 <body>
-    <h2>Nutrition App</h2>
+    <h2>Nutritionist App</h2>
     <body>
     <h2>Nutrition App using Streamlit </h2>
     <p>This project leverages nutrition data from various food databases and provides insightful analytics to support healthy eating patterns.</p>
